@@ -56,3 +56,11 @@ Hint: The London Local Authority has a longer name than "London" so you will nee
 Hint: You will need to compare the geocode to find the nearest locations. Search within 0.01 degree on either side of the latitude and longitude.<br>
 4.	How many establishments in each Local Authority area have a hygiene score of 0? Sort the results from highest to lowest, and print out the top ten local authority areas.<br>
 Hint: You will need to use the aggregation method to answer this.<br>
+
+
+Sources:
+
+Python Tutorial. (n.d.). https://www.w3schools.com/python/<br>
+Stack Overflow - Where Developers Learn, Share, & Build Careers. (n.d.). Stack Overflow. https://stackoverflow.com/<br>
+https://chat.openai.com/: used to help debug problematic for loop.<br>
+Starter code given from boot camp class and instructions<br>
